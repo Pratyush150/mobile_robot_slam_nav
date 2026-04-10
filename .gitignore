@@ -1,0 +1,21 @@
+# ROS2 build files
+build/
+install/
+log/
+
+# Colcon logs
+*.log
+
+# VS Code
+.vscode/
+
+# Python cache
+__pycache__/
+*.pyc
+
+# OS files
+.DS_Store
+
+# Temporary files
+*.swp
+*.bak
